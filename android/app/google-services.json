@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "307128675989",
+    "project_id": "exam-cart-app",
+    "storage_bucket": "exam-cart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307128675989:android:3c4bc2d5f5375ce70df59c",
+        "android_client_info": {
+          "package_name": "com.example.exam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307128675989-rrmkmgjefue6n0mrp9v0om03m5d5rpg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKIQv8O6yVLQst-Xlz9iPsr4inHZsEaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307128675989-9g2qmh00l6vp5rcu65o7ru0nqrspgeg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307128675989-aa0i4tjuaeoec5brqh14o2ec3l7tocjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
